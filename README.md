@@ -5,3 +5,4 @@
 
 ## 📈 Coding profiles stats
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mythikos)](https://codeforces.com/profile/mythikos)
+![Leetcode Stats](https://leetcard.jacoblin.cool/mythikosium?ext=contest)
